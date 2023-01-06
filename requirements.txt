@@ -21,3 +21,6 @@ requests-toolbelt==0.10.1
 ffpb==0.4.1
 youtube-search-python==1.6.6
 token-bucket==0.3.0
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
